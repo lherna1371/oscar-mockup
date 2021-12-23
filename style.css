@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+* {
+    outline: 1px solid red;
+}
+
+.black-header {
+    background-color: black;
+    color: white;
+}
+
+.main-header {
+    background-color: rgb(111, 111, 236);
+}
+
+.main-div {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
